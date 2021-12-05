@@ -1,2 +1,2 @@
-!(banner)[https://github.com/johanmarin/johanmarin/blob/main/banner.png]
+![banner](https://github.com/johanmarin/johanmarin/blob/main/banner.png)
 
