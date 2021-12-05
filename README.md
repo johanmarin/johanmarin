@@ -1,3 +1,2 @@
-<h1 align="center">Johan Marin</h1>
-<h3 align="center">Data engineer in training</h3>
+!(banner)[https://github.com/johanmarin/johanmarin/blob/main/banner.png]
 
