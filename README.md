@@ -5,8 +5,8 @@
 </em></p>
 
 
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/johanmarin)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/johanmarin)
+[![Linkedin: Johan Marin](https://img.shields.io/badge/-johanmarin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johanmarin/)](https://www.linkedin.com/in/johanmarin)
+[![GitHub Thaiane](https://img.shields.io/github/followers/johanmarin?label=follow&style=social)](https://github.com/johanmarin)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
