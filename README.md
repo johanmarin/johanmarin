@@ -1,7 +1,7 @@
 ![banner](https://github.com/johanmarin/johanmarin/blob/main/banner.png)
 
 
-<p><em>Industrial Enginner at <a href="https://udea.edu.co">University of Antioquia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Data Scientist<a href="https://en.grupokonecta.com">Konecta</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Enginner at <a href="https://udea.edu.co">University of Antioquia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Data Scientist at <a href="https://en.grupokonecta.com">Konecta</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 
